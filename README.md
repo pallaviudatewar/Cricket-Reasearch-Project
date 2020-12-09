@@ -1,0 +1,2 @@
+# Cricket-Reasearch-Project
+After analysis using Naive Bayes (accuracy = 86.6%), Extra Trees Classifier(accuracy = 94.1%), Random Forest Classifier (accuracy = 96.2% ) and XGBoost Classifier (accuracy = 98.2%),it can be inferred that XGBoost is the best model because it provides the best accuracy and has improved the prediction of the current model, Naive Bayes which was used in the Research Paper.
